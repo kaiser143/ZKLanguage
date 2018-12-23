@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZKLanguage_Example' do
+  pod 'ZKLanguage', :path => '../'
+
+  target 'ZKLanguage_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
