@@ -39,7 +39,7 @@
 /* Begin PBXFileReference section */
 		1A9731D83E7700073AA20B47 /* Pods-ZKLanguage_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZKLanguage_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZKLanguage_Example/Pods-ZKLanguage_Example.release.xcconfig"; sourceTree = "<group>"; };
 		29B6FFC015BE70FAAA82B114 /* Pods_ZKLanguage_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZKLanguage_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4C3076E647DA549C23A62131 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		4C3076E647DA549C23A62131 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* ZKLanguage_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZKLanguage_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -64,8 +64,8 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8D57B30966DD98D6E260E821 /* Pods-ZKLanguage_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZKLanguage_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZKLanguage_Example/Pods-ZKLanguage_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		99A9D60FE43A1FC975DBCF0D /* Pods-ZKLanguage_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZKLanguage_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZKLanguage_Tests/Pods-ZKLanguage_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		F9BBD371AD9362CC6056E9EF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		F9FB8D62A00FB737EACC40AD /* ZKLanguage.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ZKLanguage.podspec; path = ../ZKLanguage.podspec; sourceTree = "<group>"; };
+		F9BBD371AD9362CC6056E9EF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F9FB8D62A00FB737EACC40AD /* ZKLanguage.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ZKLanguage.podspec; path = ../ZKLanguage.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		FA24F5CD788FA76A38E4F849 /* Pods_ZKLanguage_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZKLanguage_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 

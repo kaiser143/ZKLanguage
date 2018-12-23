@@ -1,0 +1,6 @@
+framework module ZKLanguage {
+  umbrella header "ZKLanguage-umbrella.h"
+
+  export *
+  module * { export * }
+}
